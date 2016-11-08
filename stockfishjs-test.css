@@ -1,0 +1,12 @@
+#output {
+    border-radius: 4px;
+    background: #3a3a3a;
+    color: white;
+    font-family: 'Consolas', monospace;
+    padding: 10px;
+    height: 450px;
+}
+
+.input-code {
+    color: lightblue;
+}
